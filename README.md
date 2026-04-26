@@ -36,6 +36,15 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 ---
 
+## ⚡ 30-Second Recruiter View
+
+- Consistent merged contributions in mature open source ecosystems.
+- Hands-on engineering work across `Go`, `Python`, `Scala`, `Rust`, CI/CD, docs, and tooling.
+- Experience contributing to cloud-native and developer infrastructure projects.
+- Public proof links available for each contribution.
+
+---
+
 ## 🧭 Table of Contents
 
 - [Cilium (CNCF)](#-cilium-cncf)
@@ -227,6 +236,19 @@ Add this repo link inside your resume under **Open Source Experience**:
   `Maintained a curated portfolio of 20+ merged PRs across 15+ open source organizations including CNCF and Linux Foundation ecosystem projects.`
 
 This aligns with the strategy suggested by seniors: your work should be quickly visible and verifiable.
+
+---
+
+## 🎯 SDE Intern Positioning
+
+If you are targeting **SDE Intern** roles, highlight these points in resume/interviews:
+
+- Ability to work with large existing codebases and follow contribution standards.
+- Practical software engineering habits: CI fixes, docs improvements, tooling, debugging, and issue reporting.
+- Cross-stack exposure (`backend`, `infra`, `developer tooling`) rather than only one stack.
+- Communication and collaboration through review-ready pull requests.
+
+For copy-paste resume bullets, see [`RESUME_READY_BULLETS.md`](./RESUME_READY_BULLETS.md).
 
 ---
 
