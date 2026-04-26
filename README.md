@@ -46,6 +46,20 @@ A full deep-dive (repo-wise, PR-wise, discussion-wise) is available here:
 
 ---
 
+## 🎯 Focused Target-Org Analysis
+
+Deep focused analysis for your requested organizations is available here:
+
+- [`FOCUSED_DEEP_RESEARCH.md`](./FOCUSED_DEEP_RESEARCH.md)
+- Focus datasets: [`focused_pr_data.json`](./focused_pr_data.json), [`focused_pr_detailed.json`](./focused_pr_detailed.json)
+
+This includes:
+- Org-wise technical depth analysis (`cilium.io`, `OpenScienceLabs`, `mllam`, `llm4s`, `tensormap`)
+- Open/Merged active contribution tables
+- Discussion-heavy archival threads without closure-state labeling in the discussion section
+
+---
+
 ## ⚡ 30-Second Recruiter View
 
 - Consistent contribution activity in mature open source ecosystems.
