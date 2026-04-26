@@ -30,10 +30,19 @@ This repository centralizes only **active (Open)** and **accepted (Merged)** lin
 
 | Metric | Value |
 |---|---:|
-| Organizations (Open/Merged activity) | **8** |
-| Open Pull Requests | **8** |
-| Merged Pull Requests | **1** |
+| Organizations (Open/Merged activity) | **23** |
+| Open Pull Requests | **29** |
+| Merged Pull Requests | **8** |
 | Open Issues with Technical Context | **1** |
+
+---
+
+## 🔎 Deep Research Report
+
+A full deep-dive (repo-wise, PR-wise, discussion-wise) is available here:
+
+- [`DEEP_PR_RESEARCH.md`](./DEEP_PR_RESEARCH.md)
+- Dataset files: [`pr_research_data.json`](./pr_research_data.json), [`pr_research_data.csv`](./pr_research_data.csv)
 
 ---
 
