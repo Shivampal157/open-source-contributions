@@ -1,8 +1,8 @@
 # 🚀 Open Source Contributions — Shivam Pal
 
 <p align="center">
-  <b>Curated proof of my open source impact</b><br/>
-  Pull requests created and merged across CNCF, Linux Foundation ecosystem, and other global open source organizations.
+  <b>Curated proof of my open source journey</b><br/>
+  Verified pull request and issue activity across CNCF, Linux Foundation ecosystem, and other global open source organizations.
 </p>
 
 <p align="center">
@@ -30,15 +30,15 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | Metric | Value |
 |---|---:|
-| Organizations Contributed | **15+** |
-| Pull Requests (Merged) | **20+** |
-| Ecosystem Highlights | **CNCF, Linux Foundation, GSoC 2026 orgs** |
+| Organizations Targeted | **15+** |
+| Tracked PR/Issue Links | **20+** |
+| Live Verification | **Updated with current GitHub status (Open / Closed / Merged)** |
 
 ---
 
 ## ⚡ 30-Second Recruiter View
 
-- Consistent merged contributions in mature open source ecosystems.
+- Consistent contribution activity in mature open source ecosystems.
 - Hands-on engineering work across `Go`, `Python`, `Scala`, `Rust`, CI/CD, docs, and tooling.
 - Experience contributing to cloud-native and developer infrastructure projects.
 - Public proof links available for each contribution.
@@ -72,8 +72,8 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#44177](https://github.com/cilium/cilium/pull/44177) | CLI tooling improvements and documentation | ✅ Merged |
-| [#44175](https://github.com/cilium/cilium/pull/44175) | Documentation and code quality fixes | ✅ Merged |
+| [#44177](https://github.com/cilium/cilium/pull/44177) | Removed deprecated Ginkgo test suite (`K8sAgentPerNodeConfigTest`) | ❌ Closed |
+| [#44175](https://github.com/cilium/cilium/pull/44175) | Removed deprecated Ginkgo test suite (`K8sKafkaPolicyTest`) | ❌ Closed |
 
 ---
 
@@ -85,7 +85,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#17972](https://github.com/prometheus/prometheus/pull/17972) | Metric exposition and documentation quality enhancements | ✅ Merged |
+| [#17972](https://github.com/prometheus/prometheus/pull/17972) | Added remote-read API documentation and pitfalls | 🔄 Open |
 
 ---
 
@@ -97,9 +97,9 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#844](https://github.com/llm4s/llm4s/pull/844) | CI/CD safety templates for LLM model deployments | ✅ Merged |
-| [#857](https://github.com/llm4s/llm4s/pull/857) | Build and pipeline improvements | ✅ Merged |
-| [#861](https://github.com/llm4s/llm4s/pull/861) | Documentation and tooling enhancements | ✅ Merged |
+| [#844](https://github.com/llm4s/llm4s/pull/844) | Streaming-with-tools OpenAI example and bug fix | ✅ Merged |
+| [#857](https://github.com/llm4s/llm4s/pull/857) | Staged deployment CI/CD template | 🔄 Open |
+| [#861](https://github.com/llm4s/llm4s/pull/861) | CI policy-as-code checks for provider/model config | ❌ Closed |
 | [#842](https://github.com/llm4s/llm4s/pull/842) | Additional CI fixes | 🔄 Open |
 
 ---
@@ -112,11 +112,11 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#383](https://github.com/mllam/neural-lam/pull/383) | Auto-documentation pipeline setup | ✅ Merged |
-| [#396](https://github.com/mllam/neural-lam/pull/396) | CI workflow improvements | ✅ Merged |
-| [#427](https://github.com/mllam/neural-lam/pull/427) | Documentation quality fixes | ✅ Merged |
-| [#538](https://github.com/mllam/neural-lam/pull/538) | Graph construction improvements | ✅ Merged |
-| [#539](https://github.com/mllam/neural-lam/pull/539) | Additional CI and docs fixes | ✅ Merged |
+| [#383](https://github.com/mllam/neural-lam/pull/383) | Directed edge visualization updates in graph plotting | ❌ Closed |
+| [#396](https://github.com/mllam/neural-lam/pull/396) | Edge-count consistency checks for graph tests | ❌ Closed |
+| [#427](https://github.com/mllam/neural-lam/pull/427) | Added CLI for generated graph-file validation | ❌ Closed |
+| [#538](https://github.com/mllam/neural-lam/pull/538) | Graph edge-index bounds checks in creation tests | 🔄 Open |
+| [#539](https://github.com/mllam/neural-lam/pull/539) | Documented graph layout and fixed graph CLI typo | 🔄 Open |
 
 ---
 
@@ -128,7 +128,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#6558](https://github.com/knative/docs/pull/6558) | Documentation improvements for serverless components | ✅ Merged |
+| [#6558](https://github.com/knative/docs/pull/6558) | Added air-gapped environment private-registry guidance | ❌ Closed |
 
 ---
 
@@ -140,7 +140,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#17966](https://github.com/meshery/meshery/pull/17966) | Service mesh infrastructure improvements | ✅ Merged |
+| [#17966](https://github.com/meshery/meshery/pull/17966) | Added `/api/registry` routes and client updates | 🔄 Open |
 
 ---
 
@@ -152,7 +152,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#2689](https://github.com/fossasia/eventyay-tickets/pull/2689) | Event platform feature improvements | ✅ Merged |
+| [#2689](https://github.com/fossasia/eventyay-tickets/pull/2689) | Added trade show and exhibition support | ❌ Closed |
 
 ---
 
@@ -164,7 +164,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#252](https://github.com/scalacenter/sbt-version-policy/pull/252) | Build tooling and policy fixes | ✅ Merged |
+| [#252](https://github.com/scalacenter/sbt-version-policy/pull/252) | Dependency check fix for Compile/Runtime configurations | ❌ Closed |
 
 ---
 
@@ -176,7 +176,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#263](https://github.com/data-umbrella/data-umbrella-blog/pull/263) | Blog format migration and CI issue resolution | ✅ Merged |
+| [#263](https://github.com/data-umbrella/data-umbrella-blog/pull/263) | Blog format migration and CI issue resolution | ⚠️ Link unavailable (404) |
 
 ---
 
@@ -188,7 +188,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#181](https://github.com/AOSSIE-Org/InPactAI/pull/181) | API and feature improvements | ✅ Merged |
+| [#181](https://github.com/AOSSIE-Org/InPactAI/pull/181) | Updated `SponsorshipModel` UI | 🔄 Open |
 
 ---
 
@@ -200,7 +200,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#282](https://github.com/aboutcode-org/aboutcode.org/pull/282) | Removed static projects table from `README.md`; improved documentation clarity | ✅ Merged |
+| [#282](https://github.com/aboutcode-org/aboutcode.org/pull/282) | Cleanup in project listing/documentation | ⚠️ Link unavailable (404) |
 
 ---
 
@@ -210,7 +210,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | PR | Contribution | Status |
 |---|---|---|
-| [#735](https://github.com/Code4GovTech/C4GT/pull/735) | Platform and documentation improvements | ✅ Merged |
+| [#735](https://github.com/Code4GovTech/C4GT/pull/735) | Contributor details/documentation update | 🔄 Open |
 
 ---
 
@@ -222,7 +222,7 @@ This repo centralizes my technical PRs so the impact is visible at a glance.
 
 | Issue | Contribution | Type |
 |---|---|---|
-| [#4818](https://github.com/boa-dev/boa/issues/4818) | Identified and reported parser edge-case behavior | 🐛 Issue |
+| [#4818](https://github.com/boa-dev/boa/issues/4818) | Reported panic/error-handling risk in `JsRegExp` wrapper | 🐛 Open Issue |
 
 ---
 
@@ -233,9 +233,17 @@ Add this repo link inside your resume under **Open Source Experience**:
 - **Title:** `Open Source Contributions Portfolio`
 - **Link:** [github.com/Shivampal157/open-source-contributions](https://github.com/Shivampal157/open-source-contributions)
 - **One-line resume text:**  
-  `Maintained a curated portfolio of 20+ merged PRs across 15+ open source organizations including CNCF and Linux Foundation ecosystem projects.`
+  `Maintained a curated, publicly verifiable open-source portfolio across 15+ organizations, with live PR/issue status tracking and contribution links.`
 
 This aligns with the strategy suggested by seniors: your work should be quickly visible and verifiable.
+
+---
+
+## 🧭 Mentor Advice Applied
+
+- Keep all open-source work in one dedicated repository so PRs are not missed by reviewers.
+- Add that repository link directly in resume experience section for faster credibility checks.
+- Continue balancing DSA practice + open-source consistency for SDE internship preparation.
 
 ---
 
