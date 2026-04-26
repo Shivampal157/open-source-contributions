@@ -77,6 +77,28 @@ Curated overview of my open-source contributions across multiple organizations, 
 
 ---
 
+## GSoC / LFX Project Work
+
+Dedicated project and prototype repositories created as part of GSoC/LFX preparation and contribution workflow:
+
+### MLLAM
+
+- [project1-flexible-graph-prototype](https://github.com/Shivampal157/project1-flexible-graph-prototype) - proposal evidence repo for flexible graph construction experiments.
+- [wmg-post31-contributions](https://github.com/Shivampal157/wmg-post31-contributions) - post-March progress and contribution tracker for weather-model-graphs / neural-lam.
+- [weather-model-graphs (fork)](https://github.com/Shivampal157/weather-model-graphs) - tooling-focused contribution workspace.
+- [neural-lam (fork)](https://github.com/Shivampal157/neural-lam) - primary contribution workspace for MLLAM threads.
+
+### OpenScienceLabs
+
+- [opensciencelabs.github.io (fork)](https://github.com/Shivampal157/opensciencelabs.github.io) - contribution workspace for content migration and performance improvement work.
+
+### TensorMap
+
+- [Tensor-Map-post-31-Contribution-](https://github.com/Shivampal157/Tensor-Map-post-31-Contribution-) - post-deadline contribution evidence and progress log.
+- [tensormap (fork)](https://github.com/Shivampal157/tensormap) - main contribution workspace for backend/training flow improvements.
+
+---
+
 ## Contact
 
 - Email: [shivam10palpal@gmail.com](mailto:shivam10palpal@gmail.com)
