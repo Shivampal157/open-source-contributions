@@ -1,6 +1,8 @@
-# Open Source Contributions - Shivam Pal
+# Open Source Experience
 
-> Centralized contribution portfolio for SDE internship applications. All organizations are listed with contribution links.
+This repository contains an overview of my pull requests and technical discussion threads across open source organizations.
+
+Structured in a format similar to internship/experience portfolios, so reviewers can quickly validate contribution history.
 
 | Metric | Count |
 |---|---:|
@@ -8,6 +10,14 @@
 | Open PRs | **29** |
 | Merged PRs | **8** |
 | Total PR threads tracked | **67** |
+
+## Table of Content
+
+- [All Organization Links](#all-organization-links)
+- [Organization-wise Contributions](#organization-wise-contributions)
+  - `mllam`, `data-umbrella`, `llm4s`, `fossasia`, `cilium`, `OpenScienceLabs`, `c2siorg`, `meshery`, `prometheus`, `knative`, `AOSSIE-Org`, `Code4GovTech`, and more
+- [Notable Issue Discussion Threads](#notable-issue-discussion-threads)
+- [Resume Line (Copy-Paste)](#resume-line-copy-paste)
 
 ## All Organization Links
 
