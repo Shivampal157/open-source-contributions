@@ -4,19 +4,19 @@ Use only bullets that are fully accurate for your profile and current numbers.
 
 ## Option A (Strong + Safe)
 
-- Built and maintained a public open-source contribution portfolio, documenting 20+ PRs/issues across 15+ organizations including CNCF ecosystem projects.
+- Built and maintained a public open-source contribution portfolio with verified Open/Merged contribution links across multiple organizations.
 - Contributed production-quality changes across `Go`, `Python`, and `Scala` projects, with focus on CI/CD reliability, developer tooling, and documentation quality.
 - Collaborated in distributed open source teams by submitting review-ready PRs, addressing feedback, and shipping iterative improvements in large codebases.
 
 ## Option B (ATS-Friendly)
 
-- Open Source Contributor with 20+ tracked PRs/issues across 15+ repositories/organizations.
+- Open Source Contributor with a publicly verifiable portfolio of active PRs/issues across multiple repositories/organizations.
 - Improved CI workflows, build pipelines, and project documentation in cloud-native and developer tooling repositories.
 - Experience with GitHub workflows, code review cycles, and end-to-end PR lifecycle management.
 
 ## Option C (Short Version for 1-page resume)
 
-- 20+ open-source PRs/issues across 15+ orgs (CNCF/LF ecosystem); contributions in CI/CD, tooling, and documentation.
+- Open-source contribution portfolio with active Open/Merged links; contributions in CI/CD, tooling, and documentation.
 
 ---
 
