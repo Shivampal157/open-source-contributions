@@ -46,6 +46,20 @@ A full deep-dive (repo-wise, PR-wise, discussion-wise) is available here:
 
 ---
 
+## 🌐 All Organizations Coverage (Primary)
+
+For complete org-wise coverage of everything authored (not just selected organizations), use:
+
+- [`ALL_ORGS_DEEP_RESEARCH.md`](./ALL_ORGS_DEEP_RESEARCH.md)
+
+This report includes:
+- All repository/org scopes discovered from authored PR history
+- Active contributions in `OPEN` and `MERGED` states
+- Discussion-heavy archival threads presented as technical discussion evidence
+- SDE intern-focused summary signals for resume/interview usage
+
+---
+
 ## 🎯 Focused Target-Org Analysis
 
 Deep focused analysis for your requested organizations is available here:
